@@ -46,13 +46,6 @@ Recent Computer &amp; Communication Engineering graduate (Cairo University) buil
 
 <br/>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=seifheakal&show_icons=true&hide_border=true&bg_color=1a1625&title_color=e0b872&icon_color=d81e1e&text_color=c9c3e0&ring_color=5a3d8a" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seifheakal&layout=compact&hide_border=true&bg_color=1a1625&title_color=e0b872&text_color=c9c3e0&langs_count=8" height="165"/>
-</div>
-
-<br/>
-
 ### 🚀 Projects
 
 <table>
